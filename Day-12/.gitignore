@@ -1,0 +1,7 @@
+# Ignore LinkedIn post in this directory
+linkedin-post.md
+
+# Optional: Ignore other files you don't want to push
+*.tmp
+*.log
+.DS_Store

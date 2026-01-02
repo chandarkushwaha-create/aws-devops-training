@@ -1,0 +1,10 @@
+# Ignore LinkedIn posts from all directories
+**/linkedin-post.md
+linkedin-post.md
+
+# Other common ignores
+*.tmp
+*.log
+.DS_Store
+node_modules/
+.env
